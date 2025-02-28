@@ -1,0 +1,1 @@
+This file contains the technical audit for Quick Health Certified, outlining all identified technical errors. It includes both functional and non-functional testing, such as page speed analysis, missing meta tags, schema markup issues, and other critical technical aspects affecting website performance and SEO.
